@@ -71,6 +71,7 @@ body {
   border-radius: 8px;
   font-size: 1.18rem;
   display: inline-block;
+  margin-left: -260px;
 }
 
 .features {
